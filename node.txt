@@ -1,0 +1,8 @@
+step 01: compile kotlin to java : sudo kotlinc <file path of input file> -include-runtime -d <file path of output file>
+
+step 02: run java : java -jar <file path>
+
+
+one line : sudo kotlinc <file path> -include-runtime -d <file path> && java -jar <file path jar>
+
+example: sudo kotlinc main.kt -include-runtime -d main.jar && java -jar main.jar

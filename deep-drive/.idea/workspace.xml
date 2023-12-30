@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -47,11 +47,13 @@
     "Kotlin.ArrayOfKt.executor": "Run",
     "Kotlin.ColloctionKt.executor": "Run",
     "Kotlin.FunctionKt.executor": "Run",
+    "Kotlin.ListOfKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.MapofKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Learn Programming/Programing with kotlin/deep-drive/src/Main.kt",
     "settings.editor.selected.configurable": "advanced.settings"
